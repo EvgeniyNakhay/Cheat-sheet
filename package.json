@@ -1,6 +1,6 @@
 {
   "name": "cheat-sheet",
-  "homepage": "https://evgeniynakhay.github.io/Cheat-sheet",
+  "homepage": "https://github.com/EvgeniyNakhay/Cheat-sheet.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^4.22.1",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
@@ -40,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
