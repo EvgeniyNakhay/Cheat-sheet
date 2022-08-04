@@ -1,1 +1,1 @@
-Follow this link to see the code: https://evgeniynakhay.github.io/Cheat-sheet/
+Follow this link to see the app: https://evgeniynakhay.github.io/Cheat-sheet/
